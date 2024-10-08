@@ -1,4 +1,4 @@
-This is my first Android project named ##"Calculator"##
+This is my first Android project named **"Calculator"**
 
 ## features
 
