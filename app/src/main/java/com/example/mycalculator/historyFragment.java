@@ -19,7 +19,7 @@ import java.util.ArrayList;
 
 /**
  * A simple {@link Fragment} subclass.
- * Use the {@link historyFragment#newInstance} factory method to
+ * Use the {@link historyFragment} factory method to
  * create an instance of this fragment.
  */
 public class historyFragment extends Fragment {
