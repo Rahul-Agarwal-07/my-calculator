@@ -8,4 +8,4 @@ This is my first Android project named **"Calculator"**
 
 Will definitely improve and add more features and addons from community will be highly appreciated.
 
-Thank You.
+**Thank You.**
